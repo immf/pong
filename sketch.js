@@ -147,7 +147,7 @@ function draw(){
     text("Aperte 'R' para reiniciar",60,240)
    }  
     
-    if(pontuacao2==1){ 
+    if(pontuacao2==10){ 
       vitoria.play(); 
       ponto.stop(); 
     estadojogo="fim";
